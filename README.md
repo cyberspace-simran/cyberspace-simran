@@ -1,18 +1,18 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on my life, ideas and exploring.😎
-- 🌱 I’m currently trying to learn almost everything 🤣
-- 👯 I’m looking to collaborate with people focued on exploring Deep Learning, Quantum and AI  😈
+- 🔭 I’m currently working on my self, ideas and exploring.😎
+- 🌱 I’m currently `trying to learn almost everything` 🤣
+- 👯 I’m looking to collaborate with people focued on `exploring Deep Learning, Quantum and AI`  😈
 - 🤔 I’m looking for help with new projects on Deep Learning
 - 💬 Ask me about Anything
 - 😄 Pronouns: She/Her
  
 
 
-**_Things I'm good at_ 🔥**
+`Things I'm good at` 🔥
 
-`**Technologies**`      : Basic Web Development, Internet of Things, Data Science, Machine Learning.
+**Technologies**      : Basic Web Development, Internet of Things, Data Science, Machine Learning.
 
 **Languages**          : Python, SQL, HTML, CSS, JavaScript, PHP, Embedded C.
 
