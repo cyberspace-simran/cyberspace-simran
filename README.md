@@ -1,14 +1,12 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on my self, ideas and exploring.😎
-- 🌱 I’m currently `trying to learn almost everything` 🤣
-- 👯 I’m looking to collaborate with people focued on `exploring Deep Learning, Quantum and AI`  😈
-- 🤔 I’m looking for help with new projects on Deep Learning
-- 💬 Ask me about Anything
-- 😄 Pronouns: She/Her
- 
+Talking about Personal Stuffs:
 
+- 🔭 I’m currently `working on my self, ideas and exploring` and `trying to learn almost everything I can` 🤣
+- 👯 I’m looking to collaborate with people focued on `exploring Deep Learning, Quantum and AI`  😈
+- 🤔 I’m looking for new real life projects on Deep Learning and even a Job in Data Science.
+- 💬 Ask me about Anything, but if google dosn't know then it might be tough to answer.😜
 
 `Things I'm good at` 🔥
 
