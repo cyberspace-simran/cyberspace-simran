@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 
 Talking about Personal Stuffs:
@@ -8,7 +8,7 @@ Talking about Personal Stuffs:
 - 🤔 I’m looking for new real life projects on Deep Learning and even a Job in Data Science.
 - 💬 Ask me about Anything, but if google dosn't know then it might be tough to answer.😜
 
-`Things I'm good at` 🔥
+### `Things I'm good at` 🔥
 
 **Technologies**      : Basic Web Development, Internet of Things, Data Science, Machine Learning.
 
