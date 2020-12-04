@@ -13,19 +13,19 @@
 
 Things I'm good at 🔥
 
-Technologies:Basic Web Development, Internet of Things, Data Science, Machine Learning.
+Technologies       : Basic Web Development, Internet of Things, Data Science, Machine Learning.
 
-Languages: Python, SQL, HTML, CSS, JavaScript, PHP, Embedded C.
+Languages          : Python, SQL, HTML, CSS, JavaScript, PHP, Embedded C.
 
-Database: PostgreSQL, SQLite, MySQL.
+Database           : PostgreSQL, SQLite, MySQL.
 
-Framework: Django and Flask.
+Framework          : Django and Flask.
 
-Libraries & Tools: Selenium, API, Tableau, NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, Seaborn, Tensorflow, Keras, openCV. 
+Libraries & Tools  : Selenium, API, Tableau, NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, Seaborn, Tensorflow, Keras, openCV. 
 
-Boards: Arduino UNO, NODEMCU Esp8266, NodeMCU ESP32. 
+Boards             : Arduino UNO, NODEMCU Esp8266, NodeMCU ESP32. 
 
-Platforms:Godaddy, Arduino IDE, Xampp.
+Platforms          : Godaddy, Arduino IDE, Xampp.
 
 
 
