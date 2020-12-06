@@ -22,7 +22,9 @@ Talking about Personal Stuffs:
 
 **Boards**--------------: Arduino UNO, NODEMCU Esp8266, NodeMCU ESP32. 
 
-**Platforms**-----------: Godaddy, Arduino IDE, Xampp.
+**Platforms**-----------: Godaddy, Xampp.
+
+**OS**-----------------:Linux, Windows.
 
 
 :mailbox: Reach me out!
