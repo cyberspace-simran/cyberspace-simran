@@ -16,7 +16,7 @@ Talking about Personal Stuffs:
 
 **Database**-----------: PostgreSQL, SQLite, MySQL.
 
-**Framework**----------: Django and Flask.
+**Framework**---------: Django and Flask.
 
 **Libraries & Tools**---: Selenium, Tableau, NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn, Tensorflow, Keras, openCV. 
 
