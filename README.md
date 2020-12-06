@@ -18,11 +18,11 @@ Talking about Personal Stuffs:
 
 **Framework**----------: Django and Flask.
 
-**Libraries & Tools**--: Selenium, Tableau, NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn, Tensorflow, Keras, openCV. 
+**Libraries & Tools**---: Selenium, Tableau, NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn, Tensorflow, Keras, openCV. 
 
-**Boards**-------------: Arduino UNO, NODEMCU Esp8266, NodeMCU ESP32. 
+**Boards**--------------: Arduino UNO, NODEMCU Esp8266, NodeMCU ESP32. 
 
-**Platforms**----------: Godaddy, Arduino IDE, Xampp.
+**Platforms**-----------: Godaddy, Arduino IDE, Xampp.
 
 
 :mailbox: Reach me out!
