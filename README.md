@@ -24,7 +24,7 @@ Talking about Personal Stuffs:
 
 **Platforms**-----------: Godaddy, Xampp.
 
-**OS**------------------:Linux, Windows.
+**OS**-------------------:Linux, Windows.
 
 
 :mailbox: Reach me out!
