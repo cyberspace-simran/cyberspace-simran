@@ -10,9 +10,9 @@ Talking about Personal Stuffs:
 
 ### `Things I'm good at` 🔥
 
-**Technologies**-------: Basic Web Development, Internet of Things, Data Science, Machine Learning.
+**Technologies**------: Basic Web Development, Internet of Things, Data Science, Machine Learning.
 
-**Languages**----------: Python, SQL, HTML, CSS, JavaScript, PHP, Embedded C.
+**Languages**---------: Python, SQL, HTML, CSS, JavaScript, PHP, Embedded C.
 
 **Database**-----------: PostgreSQL, SQLite, MySQL.
 
