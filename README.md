@@ -14,11 +14,11 @@ Talking about Personal Stuffs:
 
 **Languages**------------: Python, SQL, HTML, CSS, JavaScript, PHP, Embedded C.
 
-**Database**-------------: PostgreSQL, SQLite, MongoDB, MySQL.
+**Database**-------------: PostgreSQL, MongoDB, MySQL.
 
 **Framework**------------: Django and Flask.
 
-**Libraries & Tools**----: Selenium, Tableau, NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn, Tensorflow, Keras, openCV. 
+**Libraries & Tools**----: Selenium, Tableau, SQLite, NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn, Tensorflow, Keras, openCV. 
 
 **Boards**---------------: Arduino UNO, NODEMCU Esp8266, NodeMCU ESP32. 
 
