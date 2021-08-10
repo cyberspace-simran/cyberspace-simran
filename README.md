@@ -4,7 +4,7 @@
 Talking about Personal Stuffs:
 
 - 🔭 I’m currently `working on my self, ideas and exploring` 😎 and `trying to learn almost everything I can` 🤣
-- 👯 I’m looking to collaborate with people focued on `exploring Deep Learning and AI`  😈
+- 👯 I’m looking to collaborate with people focused on `exploring Deep Learning and AI`  😈
 - 🤔 I’m looking for new real life projects on Deep Learning and even a Job in Data Science.
 - 💬 Ask me about IoT, EDA and webdev 🤓
 - The fact you should know as a tech geek....
