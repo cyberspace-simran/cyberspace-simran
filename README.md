@@ -3,6 +3,7 @@
 <p align="center">
   <b>Product × Engineering × Applied AI</b><br>
   The product manager who can also read the logs.<br>
+  <i>Fluent in AI. Still running common sense locally.</i><br>
   📍 Belfast, UK · open to roles anywhere in the UK (remote, hybrid or relocation)
 </p>
 
@@ -18,7 +19,8 @@
 
 - 🛠️ **4.5+ years** across B2B SaaS, IoT and EdTech, from keeping 530+ IoT controllers running to owning a 0→1 SaaS product end to end
 - 🎓 Studying for an **MSc in AI in Business** at Queen's University Belfast, researching explainable ML with a human kept in charge
-- 🤖 Currently building **n8n automations and AI agents**
+- 🤖 Currently building **n8n automations and AI agents** (and making sure they ask before they do anything clever)
+- 🧠 Side project: keeping my common sense out of the cloud. On-device, offline, no subscription
 - 👩‍🏫 Taught **1,000+ learners** Python, data science and generative AI
 - 🔍 Looking for: **Product Owner / PM · Technical Business Analyst · IT Project / Digital Transformation · AI & Tech Implementation**
 - 💬 Ask me about product discovery, turning messy processes into software, n8n, or responsible AI
@@ -69,18 +71,24 @@
 
 </details>
 
-<details>
-<summary><b>🐞 Known issues</b></summary>
+<details open>
+<summary><b>🐞 Known issues</b> <sub>(the ones I'm keeping)</sub></summary>
 <br>
 
 | # | Issue | Status |
 |---|---|---|
 | 001 | Asks "what problem are we solving?" before anyone opens Jira | `WON'T FIX` |
 | 002 | Labels prototypes as prototypes, even when it would look cooler not to | `BY DESIGN` |
-| 005 | Will suggest a plain if-statement when someone says "let's add AI" | `BY DESIGN` |
+| 003 | Will suggest a plain if-statement when someone says "let's add AI" | `BY DESIGN` |
+| 004 | Reads the AI's answer before pasting it anywhere | `WORKING AS INTENDED` |
+| 005 | Still does the maths in my head first, then checks the model | `LEGACY FEATURE` |
+| 006 | Gets suspicious when an LLM agrees with me too quickly | `MONITORING` |
+| 007 | Won't let an agent send an email without seeing it first | `HUMAN-IN-THE-LOOP` |
 
 </details>
 
 ---
 
 <p align="center"><i>Bring a messy process, an ambitious product or an AI idea that needs a reality check. I'll bring good questions and a plan to ship.</i></p>
+
+<p align="center"><sub>No common sense was outsourced in the making of this profile.</sub></p>
