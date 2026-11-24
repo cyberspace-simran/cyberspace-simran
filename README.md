@@ -14,7 +14,7 @@
 
 ---
 
-### 🧭 About me:
+### 🧭 About me
 
 - 🛠️ **4.5+ years** across B2B SaaS, IoT and EdTech, from keeping 530+ IoT controllers running to owning a 0→1 SaaS product end to end
 - 🎓 Studying for an **MSc in AI in Business** at Queen's University Belfast, researching explainable ML with a human kept in charge
@@ -42,13 +42,13 @@
 ### 🧰 Toolkit
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,django,aws,mysql,linux,js,html,css,arduino,git,figma,notion" alt="Tech stack icons">
+  <img src="https://skillicons.dev/icons?i=py,django,aws,mysql,linux,js,html,css,arduino,raspberrypi,git,figma,notion" alt="Tech stack icons">
 </p>
 
 | Area | Tools and skills |
 |---|---|
 | **Product** | Discovery and interviews · PRDs / BRDs · user stories and acceptance criteria · roadmapping · MVP scoping · Agile / Scrum |
-| **Engineering** | Python · Django · SQL · AWS · Linux · REST APIs · MODBUS TCP/IP · IoT sensors |
+| **Engineering** | Python · Django · SQL · AWS · Linux · REST APIs · MODBUS TCP/IP · IoT sensors · Raspberry Pi · Arduino |
 | **Applied AI** | Generative AI · n8n workflows and agents · LLM integration · ML evaluation · SHAP · Ollama · human-in-the-loop design |
 | **Delivery** | Jira · Notion · Figma · Lovable · RAID logs · stage gates · stakeholder demos |
 
