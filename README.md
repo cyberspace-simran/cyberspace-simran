@@ -14,7 +14,7 @@
 
 ---
 
-### 🧭 About me
+### 🧭 About me:
 
 - 🛠️ **4.5+ years** across B2B SaaS, IoT and EdTech, from keeping 530+ IoT controllers running to owning a 0→1 SaaS product end to end
 - 🎓 Studying for an **MSc in AI in Business** at Queen's University Belfast, researching explainable ML with a human kept in charge
